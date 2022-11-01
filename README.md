@@ -6,6 +6,7 @@ python --version
 # Update PIP to Latest Version
 URL\programs\python\python39\python.exe -m pip install --upgrade pip
 # install requirements
+```
 Pip install flask
 Pip install nltk
 Pip install pandas
@@ -14,6 +15,7 @@ pip install sklearn
 pip install vaderSentiment
 pip install openpyxl
 pip install twint
+```
 pip install --upgrade git+https://github.com/kevctae/twint.git
 # run
 url\python app.py
